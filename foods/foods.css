@@ -1,0 +1,88 @@
+
+* {
+    text-decoration: none;
+}
+
+html {
+    background-color: rgb(51, 50, 50);
+}
+
+
+body div.main {
+    display: inline;
+    font-size: 25mm;
+}
+
+body div.main ul {
+
+
+    margin: 100px;
+    color: rgb(189, 230, 170);
+    font-family: sans-serif;
+}
+
+body div.direct a {
+    display: inline;
+    font-size: 50px;
+    margin: 75px;
+    color: rgb(193, 135, 200);
+    text-decoration: underline;
+
+}
+
+body div.direct a:hover {
+    color: rgb(255, 255, 255);
+}
+
+
+body div.main div.images img {
+    display: subgrid;
+    position: absolute;
+    padding: 20px;
+    max-width:20%;
+    max-height:50%;
+    border-radius: 30px;
+    left: 50%;
+}
+
+body div.main div.images img.lasagna {
+    border-radius: 30px;
+    top: 30%;
+    
+}
+body div.main div.images img.ramen {
+    border-radius: 30px;
+    top: 70%;
+}
+body div.main div.images img.tacos {
+    border-radius: 30px;
+    position:absolute;
+    left: 72%;
+    top: 30%;
+
+    
+}
+body div.main div.images img.fries {
+    border-radius: 30px;
+    position:absolute;
+    left: 72%;
+    top: 55%;
+
+    
+}
+
+body div.main div.images img.pizza {
+    border-radius: 30px;
+    position:absolute;
+    left: 72%;
+    top: 79%;
+
+    
+}
+
+body a.top {
+
+    position: absolute;
+    bottom: 0;
+    left: 20px;
+}

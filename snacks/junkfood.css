@@ -1,0 +1,138 @@
+
+* {
+    text-decoration: none;
+}
+
+html {
+    background-color: rgb(51, 50, 50);
+}
+
+body div.direct a {
+    display: inline;
+    font-size: 50px;
+    margin: 10px;
+    color: rgb(193, 135, 200);
+    text-decoration: underline;
+
+}
+
+body div.direct a:hover {
+    color: rgb(255, 255, 255);
+}
+
+
+body div.main div.images img {
+
+    display: subgrid;
+    position: absolute;
+    padding: 20px;
+    max-width: 20%;
+    max-height: 50%;
+    border: 10px double rgb(47, 225, 142);
+    left: 50%;
+    margin: 50px;
+}
+
+body div.main table tr {
+
+    text-align: left;
+    font-family: sans-serif;
+
+}
+
+body div.main table tr td {
+
+    position: relative;
+    left: 20px;
+    color: rgb(218, 234, 248);
+
+}
+
+body div.main table {
+
+    width: 75%;
+    margin: 75px;
+    font-size: 50px;
+    border: 10px dotted rgb(126, 128, 24);
+}
+
+body div.main div.images img.cheetos {
+    border-radius: 30px;
+    top: 30%;
+    left: 1%;
+    
+}
+body div.main div.images img.doritos {
+    border-radius: 30px;
+    top: 30%;
+    left: 24%;
+}
+body div.main div.images img.fanta {
+    border-radius: 30px;
+    position:absolute;
+    height: 514px;
+    top: 30%;
+    left: 48%;
+
+    
+}
+body div.main div.images img.hershey {
+    border-radius: 30px;
+    position:absolute;
+    top: 30%;
+    left: 68%;
+
+    
+}
+
+body div.main div.images img.lays {
+    border-radius: 30px;
+    position:absolute;
+    height: 18%;
+    left: 75%;
+    top: 5%;
+
+    
+}
+body div.main div.images img.mms {
+    border-radius: 30px;
+    position:absolute;
+    top: 75%;
+    left: 1%;
+
+    
+}
+body div.main div.images img.pepsi {
+    border-radius: 30px;
+    position:absolute;
+    top: 75%;
+    left: 24%;
+
+    
+}
+
+body div.main div.images img.snickers {
+    border-radius: 30px;
+    position:absolute;
+    top: 75%;
+    left: 48%;
+
+    
+}
+
+body div.main div.images img.sprite {
+    border-radius: 30px;
+    position:absolute;
+    top: 64%;
+    left: 72%;
+    
+}
+
+
+body a.top {
+
+    position: absolute;
+    bottom: -175px;
+    left: 20px;
+
+}

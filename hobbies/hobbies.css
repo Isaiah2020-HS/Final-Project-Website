@@ -1,0 +1,86 @@
+
+* {
+    text-decoration: none;
+}
+
+html {
+    background-color: rgb(51, 50, 50);
+}
+
+body div.direct a {
+    display: inline;
+    font-size: 50px;
+    margin: 75px;
+    color: rgb(193, 135, 200);
+    text-decoration: underline;
+
+}
+
+body div.direct a:hover {
+    color: rgb(255, 255, 255);
+}
+
+
+body div.main {
+    display: inline;
+    font-size: 25mm;
+
+}
+
+
+
+body div.images {
+    position: absolute;
+    left: 65%;
+    padding: 399px;
+    width: 5px;
+    height: 200px;
+    border-radius: 30px;
+    margin: 75px;
+}
+
+body div.images img.Travel {
+    border-radius: 25px;
+    position:absolute;
+    top: 25px;
+    left: 25px;
+    
+}
+
+body div.images img.Analyst {
+    border-radius: 25px;
+    position:absolute;
+    top: 540px;
+    left: 25px;
+}
+
+body div.hobbies {
+    margin: 50px;
+    font-family: sans-serif;
+}
+
+body div.hobbies h1 {
+
+    font-size: 75px;
+    color: #ffffff;
+
+}
+
+
+body div.hobbies p.paragraphs {
+
+    display: inline-block;
+    text-align: justify;
+    width: 250mm;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+
+    margin: 25px 110mm;
+}
+
+body a.top {
+
+    position: relative;
+    bottom: 0;
+    left: 0;
+}

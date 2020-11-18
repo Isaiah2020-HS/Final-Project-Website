@@ -1,0 +1,102 @@
+
+* {
+    text-decoration: none;
+}
+
+html {
+    background-color: rgb(51, 50, 50);
+}
+
+body div.direct a {
+    display: inline;
+    font-size: 50px;
+    margin: 75px;
+    color: rgb(193, 135, 200);
+    text-decoration: underline;
+
+}
+
+body div.direct a:hover {
+    color: rgb(255, 255, 255);
+}
+
+
+
+body div.main {
+    display: inline;
+    font-size: 25mm;
+}
+
+
+body div.main ol {
+
+
+    margin: 100px;
+    color: rgb(189, 230, 170);
+    font-family: sans-serif;
+    font-size: 50px;
+}
+
+body div.main div.images img {
+
+    display: subgrid;
+    position: absolute;
+    padding: 20px;
+    max-width: 20%;
+    max-height: 50%;
+    border: 10px double rgb(47, 225, 142); 
+    left: 50%;
+    margin: 50px;
+}
+
+body div.main div.images img.christmas {
+    border-radius: 30px;
+    top: 30%;
+    
+}
+body div.main div.images img.halloween {
+    border-radius: 30px;
+    top: 58%;
+}
+body div.main div.images img.easter {
+    border-radius: 30px;
+    position:absolute;
+    left: 72%;
+    top: 30%;
+
+    
+}
+body div.main div.images img.newyears {
+    border-radius: 30px;
+    position:absolute;
+    left: 72%;
+    top: 60%;
+
+    
+}
+
+body div.main div.images img.patricksday {
+    border-radius: 30px;
+    position:absolute;
+    left: 28%;
+    top: 30%;
+
+    
+}
+
+body p {
+
+    display: inline-block;
+    text-align: justify;
+    width: 250mm;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    margin: 40px;
+}
+
+body a.top {
+
+    position: relative;
+    bottom: 0;
+    left: 0px;
+}

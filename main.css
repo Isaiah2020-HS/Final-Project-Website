@@ -1,0 +1,66 @@
+
+html {
+    background-color: #5a5a5a;
+}
+
+body div.direct a {
+    display: inline;
+    font-size: 50px;
+    margin: 10px;
+    color: rgb(39, 228, 193);
+    text-decoration: underline;
+
+}
+
+body div.direct a:hover {
+    color: rgb(255, 255, 255);
+}
+
+
+body div.main {
+    display: inline;
+    font-size: 25mm;
+
+}
+
+body div.main h1 {
+    position: absolute;
+    width: 600px; 
+    text-align: center;
+    font-size: 70px;
+    font-family: sans-serif;
+    color: #ffffff;
+}
+
+
+body div.main p.paragraph {
+
+    display: inline-block;
+    text-align: justify;
+    width: 250mm;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    margin: 140px;
+    height: 100px;
+}
+
+
+body div.main img.chiawana {
+
+    margin: 100px;
+}
+
+body a.top {
+
+    position: absolute;
+    bottom: 0;
+    left: 20px;
+}
+
+body div.main p.paragraph {
+
+    width: 300mm;
+    border-radius: 30px;
+    height: 325px
+
+}
